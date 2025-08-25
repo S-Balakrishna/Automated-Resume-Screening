@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+numpy
+nltk
+PyMuPDF
+python-docx
+pickle-mixin
